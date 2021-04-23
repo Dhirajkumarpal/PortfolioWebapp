@@ -1,80 +1,73 @@
-import port1 from '../img/portImages/maya-1.jpg';
-import port2 from '../img/portImages/port1.jpg';
-import port3 from '../img/portImages/port2.jpg';
-import port4 from '../img/portImages/port3.jpg';
-import port6 from '../img/portImages/port5.jpg';
-import port7 from '../img/portImages/port6.jpg';
-
+import scholarshipwebportal from '../img/portImages/scholarshipwebportal.svg';
+import wastemanagement from '../img/portImages/wastemanagement.jpg';
+import yelpcamp from '../img/portImages/yelpcamp.png';
+import resort from '../img/portImages/Resort.PNG';
+import chatapp from '../img/portImages/chatapp.jpg';
+import Ecommerce from '../img/portImages/Ecommerce.PNG';
+import covidtracker from '../img/portImages/Covidtracker.PNG';
 const portfolios = [
     {
         id: 1,
-        category: 'Animation',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: ["Node js","HTML","CSS","Bootstrap","MYSQL"],
+        link1: 'https://github.com/Dhirajkumarpal/doit',
         icon1: 'G',
         icon2: 'Y',
-        image: port1,
-        title: 'Autodesk Maya'
+        image: scholarshipwebportal,
+        title: 'Scholarship Portal'
     },
     {
         id: 2,
-        category: 'Python',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: ["PHP", "HTML", "CSS", "Bootstrap", "MYSQL"],
+        link1: 'https://github.com/Dhirajkumarpal/Waste-management-web-application',
         icon1: 'G',
         icon2: 'Y',
-        image: port2,
-        title: 'Python Web Scrapping'
+        image: wastemanagement,
+        title: 'Waste Management Webapp'
     },
     {
         id: 3,
-        category: 'Animation',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: ["Node js", "HTML", "CSS", "Bootstrap", "MongoDB"],
+        link1: 'https://github.com/Dhirajkumarpal/Campgrounds',
         icon1: 'G',
         icon2: 'Y',
-        image: port3,
-        title: 'Autodesk Maya'
+        image: yelpcamp,
+        title: 'Campgrounds'
     },
     {
         id: 4,
-        category: 'Javascript',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: ["React js","HTML","CSS"],
+        link1: 'https://github.com/Dhirajkumarpal/HRS',
         icon1: 'G',
         icon2: 'Y',
-        image: port4,
-        title: 'Vanilla Javascript Website'
+        image: resort,
+        title: 'Resort(HRS)'
     },
     {
         id: 5,
-        category: 'React Js',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: ["Node js","React js", "HTML", "CSS", "Bootstrap", "MongoDB"],
+        link2: 'https://github.com/Dhirajkumarpal/Ecommerce-MERN-',
         icon1: 'G',
         icon2: 'Y',
-        image: port6,
-        title: 'Getting Started With React'
+        image: Ecommerce,
+        title: 'EcommerceShoppingApp'
     },
     {
         id: 6,
-        category: 'React Js',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: ["Node js", "React js", "HTML", "CSS", "Bootstrap", "Socket.io"],
+        link1: '',
         icon1: 'G',
         icon2: 'Y',
-        image: port7,
-        title: 'Vanilla Javascript Website'
+        image: chatapp,
+        title: 'RealTime chatApp '
     },
     {
         id: 7,
-        category: 'Test Port',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: ["Angular js","HTML","CSS"],
+        link1: 'https://github.com/Dhirajkumarpal/CovidTracker',
         icon1: 'G',
         icon2: 'Y',
-        image: port4,
-        title: 'Vanilla Javascript Website'
+        image: covidtracker,
+        title: 'CovidTracker'
     }
 ]
 

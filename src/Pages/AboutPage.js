@@ -45,7 +45,7 @@ function AboutPage() {
             <Tittle title={'Specialization '} span={'Specilization'} />
             <div className="servives-container">
                 <ServicesSection image={design} title={'Web design'} 
-                text={'Have Enough Fulllstack Webapplication project exprience.'}
+                text={'Have Enough Fullstack Webapplication project exprience.'}
                 />
                 <ServicesSection image={azure} title={'Microsoft Azure '} 
                 text={'Have worked on build pipeline and release pipeline on azure.'}
