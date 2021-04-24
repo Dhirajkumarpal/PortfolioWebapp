@@ -3,11 +3,10 @@
     "",
     "\\src",
     "\\src\\Components",
-    "\\src\\img",
-    "\\src\\img\\portImages",
+    "\\src\\img\\blogs",
     "\\src\\Pages",
     "\\src\\styles"
   ],
-  "SelectedNode": "\\src\\img\\portImages\\Covidtracker.PNG",
+  "SelectedNode": "\\src\\Pages\\PortfoliosPage.js",
   "PreviewInSolutionExplorer": false
 }
