@@ -28,8 +28,10 @@ function ImageSection() {
                     </div>
                 </div>
 
+                <a href={'https://drive.google.com/file/d/12LwkHPs_WrFkNEkPn8O2wEAtDvVU3l5a/view?usp=sharing'} download="Resume" target='_blank'>
+                    <button className="btn">See CV</button>
+                </a>
                 
-                <button className="btn">Download Cv</button>
             </div>
         </div>
     )
