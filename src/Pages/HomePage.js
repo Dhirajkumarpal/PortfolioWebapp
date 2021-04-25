@@ -22,7 +22,7 @@ function HomePage() {
                     <Link to="/" className="icon-holder">
                         <FontAwesomeIcon icon={faFacebook} className="icon fb" />
                     </Link>
-                    <a href="https://github.com/Dhirajkumarpal" target="_blank" className="icon-holder">
+                    <a href="https://github.com/Dhirajkumarpal" rel="noreferrer" target="_blank" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
                     </a>
                     <Link to="/" className="icon-holder">

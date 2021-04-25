@@ -21,7 +21,7 @@ function ImageSection() {
                  
                 </div>
 
-                <a href={'https://drive.google.com/file/d/12LwkHPs_WrFkNEkPn8O2wEAtDvVU3l5a/view?usp=sharing'} download="Resume" target='_blank'>
+                <a href={'https://drive.google.com/file/d/12LwkHPs_WrFkNEkPn8O2wEAtDvVU3l5a/view?usp=sharing'} download="Resume" rel="noreferrer" target='_blank'>
                     <button className="btn">See CV</button>
                 </a>
                 
