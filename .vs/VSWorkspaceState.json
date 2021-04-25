@@ -3,10 +3,9 @@
     "",
     "\\src",
     "\\src\\Components",
-    "\\src\\img\\blogs",
     "\\src\\Pages",
     "\\src\\styles"
   ],
-  "SelectedNode": "\\src\\Pages\\PortfoliosPage.js",
+  "SelectedNode": "\\src\\Components\\ImageSection.js",
   "PreviewInSolutionExplorer": false
 }
